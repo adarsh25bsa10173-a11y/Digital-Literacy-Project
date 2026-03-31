@@ -153,4 +153,3 @@ It reflects my vision to grow as a **Cloud Engineer** and contribute to building
 
 ---
 
-⭐ *If you found this project useful, consider giving it a star!*
